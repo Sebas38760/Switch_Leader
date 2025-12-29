@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Switch_Leader\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2025-12-29 14:29\n"
+"PO-Revision-Date: 2025-12-29 14:36-0300\n"
+"Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [modification], id=mod_Switch_Leader
+#: Switch_Leader/_main.cfg:12
+msgid "Switch Leader"
+msgstr "Cambiar líder"
+
+#. [modification], id=mod_Switch_Leader
+#: Switch_Leader/_main.cfg:13
+msgid ""
+"Use rightclick menu to change nonleader unit into leader. Previous leader "
+"becomes normal unit after that"
+msgstr ""
+"Usa el menú del botón derecho para convertir una unidad que no es líder en "
+"líder. El líder anterior pasa a ser una unidad normal después de eso"
+
+#. [checkbox], id=mod_switch_leader_no_limit
+#: Switch_Leader/_main.cfg:17
+msgid "No limit"
+msgstr "Sin límite"
+
+#. [checkbox], id=mod_switch_leader_no_limit
+#: Switch_Leader/_main.cfg:18
+msgid ""
+"Whether each player should be able to name a new leader unlimited times "
+"within the same game."
+msgstr ""
+"Si cada jugador debe poder nombrar un nuevo líder un número ilimitado de "
+"veces dentro de la misma partida."
+
+#. [slider], id=mod_switch_leader_times
+#: Switch_Leader/_main.cfg:23
+msgid "Maximum times"
+msgstr "Número máximo de veces"
+
+#. [slider], id=mod_switch_leader_times
+#: Switch_Leader/_main.cfg:24
+msgid ""
+"How many times should each player be allowed to switch leader. Only has "
+"effect if the No limit option is unchecked."
+msgstr ""
+"Cuantas veces debe permitirse a cada jugador cambiar de líder. Solo tiene "
+"efecto si la opción Sin límite está desmarcada."
+
+#. [set_menu_item], id=mod_switch_leader_menu
+#: Switch_Leader/_main.cfg:46
+msgid "Make this unit your leader"
+msgstr "Hacer que esta unidad sea tu líder"
