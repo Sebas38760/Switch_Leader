@@ -9,3 +9,8 @@ version="1.1.1"
 [feedback]
 	topic_id=39116
 [/feedback]
+[translation]
+    language="es"
+	title="Cambiar Líder"
+    description="Permite a los jugadores asignar otra unidad que posean como líder, en lugar del líder anterior. Está pensado principalmente para partidas de supervivencia."
+[/translation]
