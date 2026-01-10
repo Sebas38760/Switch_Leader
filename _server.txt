@@ -5,7 +5,7 @@ icon="flags/long-flag-1.png"
 passphrase="
 title="Switch Leader"
 type="mod_mp"
-version="1.1.1"
+version=""
 [feedback]
 	topic_id=39116
 [/feedback]
